@@ -1,4 +1,7 @@
 # fishing-circle
+
+https://github.com/tomhoyland/fishing-circle/blob/main/ImageVersion.jpeg
+
 *What is it?*
 
 A simple and easy-to-adopt tool for facilitators and groups to use during events and discussions to maintain focus and topic relevance. 
