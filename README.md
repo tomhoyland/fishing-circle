@@ -9,5 +9,6 @@ How to start using it
 4. With what you have - converge, coalesce and conclude on what it means and what should happen next, using your own style or approach, returning to confirm with participants the Topic or Goal has been met.
 
 Frequently Asked Questions
+
 Q: Why is it called a Fishing Circle? 
 A: From an agreed starting Topic or Goal, a facilitator and group cast out a fishing line, drawing back in relevant and related Facts and Insights. When ready, they cast the fishing line out further to Options and Ideas, bringing these back to support the Topic or Goal of the event or discussion. It’s a simple metaphor that can fit in your head, fit on a Post-It note or be used on a larger poster with many Post-It notes. 
