@@ -44,7 +44,7 @@ The Fishing Circle can be used to frame, navigate and facilitate a whole discuss
 1. Begin with your Topic or Goal, verifying and confirming agreement with participants.
 2. Gather Facts and Insights from participants, tracking these back to the Topic or Goal. If you’ve got enough information here, expand out further…
 3. Begin to gather Ideas and Options, tracking these back to previous Facts and Insights, and ultimately the Topic or Goal to keep conversations focused and relevant. If you’ve got enough, stop.
-4. With what you have, converge and conclude on what it means and what should happen next, using your own style or approach, returning to confirm with participants the Topic or Goal has been met.
+4. With what you have, converge and conclude on what it means and what should happen next, using your own style or approach, returning to confirm with participants the Topic or Goal has been met. This could be concluding a discussion, or moving to clearly define and select the next steps as a move to action. 
 
 
 
