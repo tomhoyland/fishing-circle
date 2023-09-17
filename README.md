@@ -1,5 +1,6 @@
-# fishing-circle
+# Fishing Circle Facilitation Tool
 
+**Here's a nice visualisation**
 https://github.com/tomhoyland/fishing-circle/blob/main/ImageVersion.jpeg
 
 
