@@ -52,3 +52,8 @@ A: From an agreed starting Topic or Goal, a facilitator and group cast out a fis
 Q: Should a facilitator remain in the Centre of the Circle and do all the Fishing?
 
 A: No. The Fishing Circle is a tool intended to help frame and navigate, encouraging focus and relevance for a Topic or Goal. Whilst a facilitator can bring skills to a discussion, workshop, or event to surface the 'collective intelligence' of a group, facilitators are encouraged to create a space for groups and participants to self-manage in the pursuit of an outcome. Where the Fishing Circle has been used effectively, group participants use the tool to collectively navigate, reaching out for more information, and using it to invite curiosity over relevance and maintaining focus. 
+
+
+Q: What if you find a big fact or 'big fish' that causes a Topic or Goal to become imbalanced, focused on a specific point, or drawn away from the original Topic or Goal? 
+
+A: That kind of stuff will happen when facilitating. As a facilitator, reflect what you are noticing to participants, and how this might impact the Topic or Goal. Is the Topic or Goal still valid? Is it too broad? Should it change? If you and/or the participants realise a Topic or Goal needs to be revised or changed to reach the best outcome, don't be afraid to return to the centre of the Fishing Circle and change this with the groups agreement.
