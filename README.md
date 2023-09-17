@@ -11,6 +11,8 @@ The tool comprises of 3 circles:
 2. **Facts and Insight** - What facts, data, information, insights, experiences and stories are relevant to the Topic or Goal?
 3. **Options and Ideas** - Based on what we know and don't know, what next steps exist, what will, could or should happen next in support of the Topic or Goal.
 
+The tool can be used to frame, navigate and facilitate a whole discussion, deployed mid-way through a workshop or event once a Topic or Goal has been aligned, or wherever a facilitator thinks it might add value. The Fishing Circle is intended to work with and complement other tools, methods and approaches e.g. a Fishing Circle is used in a group problem-solving workshop to reach a point where Options and Ideas are made visible, which are then selected and defined in further detail through a Movement-to-Action method, articulating What, Why, How, When and Who. 
+
 
 **Why is it useful?**
 
@@ -33,7 +35,7 @@ The Fishing Circle is a simple tool for facilitators and participants that can h
 
 **Quick Start Guide**
 
-1. Begin with your Topic or Goal, confirming agreement with participants.
+1. Begin with your Topic or Goal, verifying and confirming agreement with participants.
 2. Gather Facts and Insights from participants, tracking these back to the Topic or Goal. If you’ve got enough information here, expand out further…
 3. Begin to gather Ideas and Options, tracking these back to previous Facts and Insights, and ultimately the Topic or Goal to keep conversations focused and relevant. If you’ve got enough, stop.
 4. With what you have, converge and conclude on what it means and what should happen next, using your own style or approach, returning to confirm with participants the Topic or Goal has been met.
@@ -45,3 +47,8 @@ The Fishing Circle is a simple tool for facilitators and participants that can h
 Q: Why is it called a Fishing Circle? 
 
 A: From an agreed starting Topic or Goal, a facilitator and group cast out a fishing line, drawing back in relevant and related Facts and Insights. When ready, they cast the fishing line out further to Options and Ideas, bringing these back to support the Topic or Goal of the event or discussion. 
+
+
+Q: Should a facilitator remain in the Centre of the Circle and do all the Fishing?
+
+A: No. The Fishing Circle is a tool intended to help frame and navigate, encouraging focus and relevance for a Topic or Goal. Whilst a facilitator can bring skills to a discussion, workshop, or event to surface the 'collective intelligence' of a group, facilitators are encouraged to create a space for groups and participants to self-manage in the pursuit of an outcome. Where the Fishing Circle has been used effectively, group participants use the tool to collectively navigate, reaching out for more information, and using it to invite curiosity over relevance and maintaining focus. 
