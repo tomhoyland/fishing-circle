@@ -25,7 +25,7 @@ The Fishing Circle is intended to be extensible.
 
 **Who is it for?**
 
-Facilitators, Coaches, Scrum Masters, Delivery Managers, Software Engineers, Business Analysts, Project Managers etc. People who work with people. 
+People who work with people and groups of people. Facilitators, Coaches, Scrum Masters, Delivery Managers, Software Engineers, Business Analysts, Project Managers etc. 
 
 
 
