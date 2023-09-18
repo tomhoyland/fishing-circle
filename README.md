@@ -23,6 +23,18 @@ The Fishing Circle is intended to be extensible.
 
 
 
+**Who is it for?**
+
+Facilitators, Coaches, Scrum Masters, Delivery Managers, Software Engineers, Business Analysts, Project Managers etc. People who work with people. 
+
+
+
+**When to use it**
+
+The Fishing Circle can be used to frame, navigate and facilitate a whole discussion, deployed mid-way through a workshop or event once a Topic or Goal has been aligned, or wherever a facilitator thinks it might add value. It's intended to work with and complement other tools, methods and approaches e.g. a Fishing Circle is used in a group problem-solving workshop to reach a point where Options and Ideas are made visible, which are then selected and defined in further detail through a Movement-to-Action method, articulating What, Why, How, When and Who.
+
+
+
 **How to use it**
 
 When facilitating a meeting, workshop or discussion, a lot of information and options can be surfaced. Some of it relevant to the Topic or Goal of that event, and some of it not so relevant. The Fishing Circle is a small facilitation tool to help facilitators and participants navigate and explore a topic, by surfacing data, information, experience and insights from participants, and continuously linking this back to the Topic or Goal to maintain focus and relevancy. Once a Topic or Goal has been understood with surrounding Facts and Insights surfaced, facilitators and participants expand conversations further to explore what could happen next, discussing Options and Ideas. As Options and Ideas are surfaced and explored, these are continuously linked back to supporting Facts and Insights, and then back further to the Topic of Goal to maintain focus and relevance. 
@@ -30,13 +42,7 @@ When facilitating a meeting, workshop or discussion, a lot of information and op
 The Fishing Circle is a simple tool for facilitators and participants that can help to prompt clarifications and curiosity during events, whilst revealing new information, e.g.
 - _"How is that Insight related/relevant/linked to the Topic or Goal?"_
 - _"...and you're suggesting this is an Option based on this Fact?"_
-- _"Is that an Idea we want to explore right now, as we are here to discuss this Topic"_
-
-
-
-**When to use it**
-
-The Fishing Circle can be used to frame, navigate and facilitate a whole discussion, deployed mid-way through a workshop or event once a Topic or Goal has been aligned, or wherever a facilitator thinks it might add value. It's intended to work with and complement other tools, methods and approaches e.g. a Fishing Circle is used in a group problem-solving workshop to reach a point where Options and Ideas are made visible, which are then selected and defined in further detail through a Movement-to-Action method, articulating What, Why, How, When and Who. 
+- _"Is that an Idea we want to explore right now, as we are here to discuss this Topic"_ 
 
 
 
