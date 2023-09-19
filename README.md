@@ -20,7 +20,9 @@ The tool comprises four circles:
 The Fishing Circle is intended to be extensible. 
 - It's small enough to fit in your head to help you navigate, ask questions and surface the collective intelligence of a group. 
 - It's simple enough to convey to another person on a Post-It Note. 
-- It's easy to scale up to be used visually on a poster/canvas with Post-It Notes to invite interaction and participation during workshops, events and discussions. 
+- It's easy to scale up to be used visually on a poster/canvas with Post-It Notes to invite interaction and participation during workshops, events and discussions.
+
+Are you facilitating an event in person? The Fishing Circle works well when participants are in the same space. Facilitating remotely? The Fishing Circle works great remotely too using your favourite remote collaboration tool.
 
 
 
