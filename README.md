@@ -7,10 +7,11 @@ https://github.com/tomhoyland/fishing-circle/blob/main/ImageVersion.jpeg
 **What is it?**
 
 The Fishing Circle is a simple and easy-to-adopt tool for facilitators and groups to use during meetings, workshops, events and discussions to navigate a topic or goal, whilst maintaining focus and relevance. 
-The tool comprises of 3 circles:
+The tool comprises four circles:
 1. **Topic or Goal** - The topic or the goal of the event, workshop, or discussion taking place. This should be easily definable, understood and agreed with/by participants.
 2. **Facts and Insight** - What facts, data, information, insights, experiences and stories are relevant to the Topic or Goal?
 3. **Options and Ideas** - Based on what we know and don't know, what next steps exist, what will, could or should happen next in support of the Topic or Goal.
+4. **Outer Ring** - Whilst they are _technically_ a fourth circle, **Loud** and **Quiet**, **Same** and **Different** are prompts for facilitators and participants to consider different voices and perspectives that might not be immediately apparent as Facts and Insights and Options and Ideas are being explored.
 
 
 
