@@ -56,7 +56,7 @@ The Fishing Circle is a simple tool for facilitators and participants that can h
 3. Begin to gather Ideas and Options, tracking these back to previous Facts and Insights, and ultimately the Topic or Outcome to keep conversations focused and relevant. If you’ve got enough, stop.
 4. With what you have, converge and conclude on what it means and what should happen next, using your own style or approach, returning to confirm with participants the Topic or Outcome has been met. This could be concluding a discussion, or moving to clearly define and select the next steps as a move to action. 
 
-As you gather Facts and Insights, Ideas and Opinions consider what is happening in the space. Are there Loud voices and groups who are Quiet? If there are, consider ways to bring other voices to the surface. Is what is being surfaced similar or the Same? If so, consider checking for Different viewpoints.
+As you gather Facts and Insights, Ideas and Options consider what is happening in the space. Are there Loud voices and groups who are Quiet? If there are, consider ways to bring other voices to the surface. Is what is being surfaced similar or the Same? If so, consider checking for Different viewpoints.
 
 
 
