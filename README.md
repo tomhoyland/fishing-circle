@@ -9,6 +9,7 @@ https://github.com/tomhoyland/fishing-circle/blob/main/FacilitationFishingCircle
 **Here's a Miro Board Template**
 https://github.com/tomhoyland/fishing-circle/blob/main/FacilitationFishingCircle-Miro.rtb
 
+
 **What is it?**
 
 The Fishing Circle is a simple and easy-to-adopt tool for facilitators and groups to use during meetings, workshops, events and discussions to navigate a topic or outcome, whilst maintaining focus and relevance. 
