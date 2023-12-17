@@ -1,8 +1,13 @@
-# Fishing Circle Facilitation Tool
+# Facilitation Fishing Circle
 
-**Here's a nice visualisation**
+**Here's a downloadable image version**
 https://github.com/tomhoyland/fishing-circle/blob/main/ImageVersion.jpeg
 
+**Here's a high-resolution PDF version**
+https://github.com/tomhoyland/fishing-circle/blob/main/FacilitationFishingCircle.pdf
+
+**Here's a Miro Board Template**
+https://github.com/tomhoyland/fishing-circle/blob/main/FacilitationFishingCircle-Miro.rtb
 
 **What is it?**
 
